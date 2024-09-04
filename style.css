@@ -1,0 +1,19 @@
+
+body {
+    color:white;
+    background-color:#151515;
+}
+
+a {
+    color:darkcyan;
+}
+
+.welcome {
+    font-family:monospace;
+    text-align: center;
+    font-size: 300%;
+}
+
+footer {
+    text-align: center;
+}
